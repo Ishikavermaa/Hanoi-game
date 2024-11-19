@@ -2,7 +2,7 @@
 
 _A simple html5 canvas+js towers of hanoi game._
 
-[Play on github pages](https://douile.github.io/tower-of-hanoi/)
+
 
 ## Notes
 
@@ -11,15 +11,9 @@ _A simple html5 canvas+js towers of hanoi game._
 + Unable to change tower count right now
 + Will not work on IE11
 
-### Things I hope to add soon
-
-+ Better auto algorithm
-+ Change tower count
-+ Move counter / Min possible moves
 
 ## Credits
 
-Written 100% by [me](https://github.com/Douile) _see [license](./LICENSE)_
 
 Javascript minified using [Babel](https://babeljs.io/)
 
